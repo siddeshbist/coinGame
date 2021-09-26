@@ -1,5 +1,5 @@
 //function from StackOverflow that determines if two elements are overlapping
-
+//another comment
 function isTouching(a, b) {
   const aRect = a.getBoundingClientRect();
   const bRect = b.getBoundingClientRect();
